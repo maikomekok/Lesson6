@@ -17,10 +17,12 @@ body{
 	padding-left: 90px;
 	margin-left: 90px;
 	font-family: 'Poppins-Bold'	
+	position:absolute;
 }
 .navbar-li-2>a {
 	padding-left: 90px;
 	font-family: 'Poppins-Bold'
+	position: absolute;
 }
 .divmain{
 	margin-top: 105px;
@@ -32,4 +34,12 @@ h1{
 .divmain>p{
 	font-size: 14px;
 	font-family: 'Poppins-Regular'
+}
+.background{
+	margin-top:0;
+	max-width: 1366px;
+	max-height: 662px;
+}
+.mainsection1{
+	position: relative;
 }
