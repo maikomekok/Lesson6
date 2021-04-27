@@ -1,4 +1,26 @@
-p{
-	font-family: 'Poppins-Regular';
-	color:blue;
+body{
+	margin-left: 60px;
+	margin-right: 60px;
+	margin-top: 20px;
+	margin-right: 20px;
 }
+.top nav,ul,li{
+	display: inline-block;
+}
+.top{
+	display: inline-block;
+}
+.navbar-li{
+	font-family: 'Poppins-Bold'
+}
+.navbar-li-1>a {
+	padding-left: 90px;
+	margin-left: 90px;
+	font-family: 'Poppins-Bold'
+	
+}
+.navbar-li-2>a {
+	padding-left: 90px;
+	font-family: 'Poppins-Bold'
+}
+.
