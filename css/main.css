@@ -23,4 +23,8 @@ body{
 	padding-left: 90px;
 	font-family: 'Poppins-Bold'
 }
-.
+h1{
+	font-size: 62px;
+	font-family:'Poppins'
+	margin-top:105px;
+}
