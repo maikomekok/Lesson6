@@ -16,15 +16,20 @@ body{
 .navbar-li-1>a {
 	padding-left: 90px;
 	margin-left: 90px;
-	font-family: 'Poppins-Bold'
-	
+	font-family: 'Poppins-Bold'	
 }
 .navbar-li-2>a {
 	padding-left: 90px;
 	font-family: 'Poppins-Bold'
 }
+.divmain{
+	margin-top: 105px;
+}
 h1{
-	font-size: 62px;
-	font-family:'Poppins'
-	margin-top:105px;
+	font-size: 60px;
+	font-family: 'Poppins-ExtraBold'
+}
+.divmain>p{
+	font-size: 14px;
+	font-family: 'Poppins-Regular'
 }
