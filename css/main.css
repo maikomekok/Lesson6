@@ -80,10 +80,19 @@ p{
 	top:600px;
 	right: 60px;
 }
-.rectangle{
+.rectangle-white{
 	position: relative;
 }
 .arrow{
 	position: absolute;
-	top: 0px;
+	left: 20px;
+    top: 15px;
+}
+.rectangle{
+	position: relative;
+}
+.arrow2{
+	position: absolute;
+	left: 75px;
+    bottom: 20px;
 }
