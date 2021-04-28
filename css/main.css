@@ -67,3 +67,23 @@ p{
 	color: white;
 	font-family: 'Poppins-Regular';
 }
+.sticky{
+	position: absolute;
+	top:600px;
+	left: 60px;
+	color:white;
+	font-family:'Poppins-Bold';
+}
+.next-to-sticky{
+	position: absolute;
+	display: inline-block;
+	top:600px;
+	right: 60px;
+}
+.rectangle{
+	position: relative;
+}
+.arrow{
+	position: absolute;
+	top: 0px;
+}
