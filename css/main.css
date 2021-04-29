@@ -98,7 +98,36 @@ p{
     bottom: 20px;
 } 
 /*second section styles*/
+.secondsection{
+	max-width: 1366px;
+	max-height: 662px;
+
+}
 .secondtext{
 	font-family: 'Poppins-ExtraBold';
 	font-size: 44px;
+	margin-top: 80px;
+	margin-left: 60px;
+}
+.section2-1{
+	color:black;
+	margin-top: 570px;
+	font-family: 'Poppins-Regular';
+}
+.section2-2{
+	color:black;
+	margin-top: 660px;
+	font-family: 'Poppins-Regular'
+
+}
+.long_rectangle{
+	position: relative;
+	top: 200px;
+    left: 60px;
+    padding-top: 25px;
+}
+.read_more{
+	position: absolute;
+	padding-top: 165px;
+    padding-left: 115px;
 }
