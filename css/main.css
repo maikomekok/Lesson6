@@ -157,11 +157,14 @@ p{
 	color: white;
 	margin-left: 60px;
 	font-size: 24px;
-	font-family: 'Poppins-Bold'
+	font-family: 'Poppins-Bold';
+	padding-top:20px;
 }
 .zetta_description{
 	color: white;
      margin-top: 1380px;
      top:5px;
+     font-size: 14px;
+     font-family: 'Poppins-Regular';
  
 }
