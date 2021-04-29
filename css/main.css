@@ -151,7 +151,7 @@ p{
 .third_section{
 	background-color: black;
 	width: 1366px;
-	height: 662px;
+	height: 300px;
 }
 .zetta{
 	color: white;
@@ -167,4 +167,18 @@ p{
      font-size: 14px;
      font-family: 'Poppins-Regular';
  
+}
+footer{
+	margin-left: 60px;
+	margin-top: 150px;
+}
+.twitter{
+	padding-left: 20px;
+}
+.google{
+	padding-left: 20px;
+}
+.end{
+	padding-top: 1560px;
+	top:0px;
 }
