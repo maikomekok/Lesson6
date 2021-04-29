@@ -130,4 +130,38 @@ p{
 	position: absolute;
 	padding-top: 165px;
     padding-left: 115px;
+    color: white;
+    font-size: 14px;
+    font-family: 'Poppins-Regular'
+}
+.arrow-right2{
+	position: absolute;
+	padding-top: 165px;
+    padding-left: 115px;
+    color: white;
+    font-size: 14px;
+    font-family: 'Poppins-Regular'
+}
+.album{
+	display: inline-block;
+	margin-left: 750px;
+	margin-right:60px;
+}
+/*Third section Styles*/
+.third_section{
+	background-color: black;
+	width: 1366px;
+	height: 662px;
+}
+.zetta{
+	color: white;
+	margin-left: 60px;
+	font-size: 24px;
+	font-family: 'Poppins-Bold'
+}
+.zetta_description{
+	color: white;
+     margin-top: 1380px;
+     top:5px;
+ 
 }
